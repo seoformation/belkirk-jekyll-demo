@@ -1,6 +1,6 @@
 ---
 title: SEOformation
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/11/12/seo-back-1024x576.png"
 layout: landing-page
 heading: Les formations en web marketing
 partners:
